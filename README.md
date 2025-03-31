@@ -2,7 +2,7 @@
 
 Full-stack optimization project with the CSA, helping satellites schedule their lives better 🛰️  
 Currently building **[Sunflower](https://github.com/kaifanzheng/sunflower)** 🌻 — a journaling app powered by AI and introspection  
-B.Eng in Computer Engineering @ McGill 🧠
+B.Eng @ McGill 🦨
 
 ---
 
