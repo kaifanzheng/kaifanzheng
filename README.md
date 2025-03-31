@@ -23,6 +23,6 @@ GPU-accelerated segmentation pipeline using PCA + K-Means — 85% faster and jus
 
 - 🚴‍♂️ Bikepacked across the Gaspé Peninsula with sore legs and great stories  
 - 🏔️ Road-tripped through Tibet — altitude, silence, awe  
-- ❤️ Advocate of relationship anarchy — connection > convention  
+- 🐙 Advocate of relationship anarchy — connection > convention  
 
 ---
