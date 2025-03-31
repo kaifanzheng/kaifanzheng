@@ -26,5 +26,3 @@ GPU-accelerated segmentation pipeline using PCA + K-Means — 85% faster and jus
 - ❤️ Advocate of relationship anarchy — connection > convention  
 
 ---
-
-📫 [GitHub](https://github.com/kaifanzheng) • [LinkedIn](https://linkedin.com/in/kaifan73) • kaifan.zheng@mail.mcgill.ca
